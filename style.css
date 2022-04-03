@@ -183,7 +183,7 @@ body * {
 
 .footer > .content {
     margin: auto;
-    padding: 60px;
+    padding: 60px 0px;
 }
 
 @media screen and (max-width:620px) {
